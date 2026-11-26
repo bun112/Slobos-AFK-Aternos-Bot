@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bun112s.aternos.me",
+    "ip": "bun112s.aternos.me:50535",
     "port": 50535,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
